@@ -37,3 +37,9 @@ h3
     border: 1px solid red;
     margin: 0 auto;
 }
+
+#colorin
+{
+    color: greenyellow;
+    background-color: fuchsia;
+}
