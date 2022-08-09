@@ -33,7 +33,7 @@ h3
 {
     width: 70%;
     padding: 1em;
-    text-align: center;
+    text-align: left;
     border: 1px solid red;
     margin: 0 auto;
 }
@@ -42,4 +42,13 @@ h3
 {
     color: greenyellow;
     background-color: fuchsia;
+}
+
+#cabecera
+{
+    background-color: rgb(26, 26, 126);
+    font-weight: bold;
+    color: white;
+    padding: 0.5em;
+    margin-bottom: 5px;
 }
