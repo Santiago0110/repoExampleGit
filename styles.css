@@ -37,3 +37,9 @@ h3
     border: 1px solid red;
     margin: 0 auto;
 }
+
+#cabecera
+{
+    background-color: blue;
+    color: aqua;
+}
