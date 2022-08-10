@@ -9,14 +9,14 @@
 main
 {
     padding: 2rem;
-    color: rgb(255, 149, 1);
+    color: rgb(95, 16, 231);
 }
 
 .lista
 {
     font-size: 20px;
     color: black;
-    background-color: rgb(29, 221, 246);
+    background-color: rgb(225, 255, 0);
     margin: 1.6rem;
 }
 
@@ -35,13 +35,13 @@ h3
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid rgb(255, 149, 1);
+    border: 1px solid rgb(95, 16, 231);
     margin: 0 auto;
 }
 
 #cabecera
 {
-    background-color: rgb(255, 149, 1);
+    background-color: rgb(95, 16, 231);
     font-weight: bold;
     color: rgb(0, 0, 0);
     padding: 0.5em;
