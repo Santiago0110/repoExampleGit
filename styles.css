@@ -48,16 +48,20 @@ h3
     margin-bottom: 5px;
 }
 
+#finalfinal
+{
+    background-color:rgb(95, 16, 231);;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: left;
+    padding: 5px;
+}
+
 /* #colorin
 {
     color: greenyellow;
     background-color: fuchsia;
 }
 
-#finalfinal
-{
-    background-color: black;
-    color: red;
-    font-size: 20px;
-    text-align: center;
+
 } */
