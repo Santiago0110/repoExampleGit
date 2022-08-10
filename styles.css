@@ -38,12 +38,6 @@ h3
     margin: 0 auto;
 }
 
-/* #colorin
-{
-    color: greenyellow;
-    background-color: fuchsia;
-}
-
 #cabecera
 {
     background-color: rgb(26, 26, 126);
@@ -51,6 +45,12 @@ h3
     color: white;
     padding: 0.5em;
     margin-bottom: 5px;
+}
+
+/* #colorin
+{
+    color: greenyellow;
+    background-color: fuchsia;
 }
 
 #finalfinal
