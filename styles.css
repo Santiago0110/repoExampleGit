@@ -6,57 +6,6 @@
     margin: 0;
 }
 
-main
-{
-    padding: 2rem;
-    color: rgb(95, 16, 231);
-}
-
-.lista
-{
-    font-size: 20px;
-    color: black;
-    background-color: rgb(225, 255, 0);
-    margin: 1.6rem;
-}
-
-h1
-{
-    font-size: 20px;
-}
-
-h3
-{
-    font-size: 15px;
-}
-
-#container
-{
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid rgb(95, 16, 231);
-    margin: 0 auto;
-}
-
-#cabecera
-{
-    background-color: rgb(95, 16, 231);
-    font-weight: bold;
-    color: rgb(255, 255, 255);
-    padding: 0.5em;
-    margin-bottom: 5px;
-}
-
-#finalfinal
-{
-    background-color:rgb(225, 255, 0);
-    color: rgb(255, 255, 255);
-    font-size: 20px;
-    text-align: left;
-    padding: 5px;
-}
-
 footer
 {
     background-color: #1d345f;
