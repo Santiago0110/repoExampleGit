@@ -1,4 +1,3 @@
-
 *
 {
     box-sizing: border-box;
@@ -9,7 +8,7 @@
 main
 {
     padding: 2rem;
-    color: rgb(95, 16, 231);
+    color: #1d345f;
 }
 
 .lista
@@ -26,6 +25,7 @@ h2
     font-size: 15px;
     margin-bottom: 5px;
     margin-top: 5px;
+    color: #dd4734;
 }
 
 p
@@ -39,28 +39,42 @@ p
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid rgb(95, 16, 231);
+    border: 1px solid #1d345f;
     margin: 0 auto;
 }
 
 #cabecera
 {
-    background-color: rgb(95, 16, 231);
+    /* background: url("./imagenes/RingoInnovaLogo2.png") no-repeat center center;   */ 
     font-weight: bold;
+    background-color: #1d345f;
     color: rgb(255, 255, 255);
-    padding: 8px;
+    padding: 0.2em 0 0.2em 0em;
     margin-bottom: 8px;
-    font-size: 20px;
+    font-size: 18px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-#finalfinal
+#parrafos
 {
-    background-color:rgb(225, 255, 0);
-    color: rgb(255, 255, 255);
-    font-size: 20px;
+    padding: 0 1em 0 1em;
+    margin-bottom: 8px;
+}
+
+#cabecera #logo
+{
+    width: 60px;
+    vertical-align: middle;
+}
+
+#listanum
+{
+    width: 50%;
+    padding: 0.5em;
     text-align: left;
-    padding: 5px;
+    border: 1px solid #1d345f;
+    margin: 20px;
+    background-color: rgba(170, 223, 240, 0.877);
 }
 
 #listanum
